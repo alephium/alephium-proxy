@@ -1,13 +1,11 @@
-# Elysia with Bun runtime
+# alephium-proxy
 
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
-```bash
-bun create elysia ./elysia-example
-```
+Proxy service used to collect data (prices...), cache and distribute.
 
 ## Development
+
 To start the development server run:
+
 ```bash
 bun run dev
 ```
